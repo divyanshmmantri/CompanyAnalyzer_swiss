@@ -54,3 +54,7 @@ Id,firstName,lastName,salary,managerId
 123,Joe,Doe,120000,
 124,Martin,Chekov,65000,123
 ```
+# Output of the program for the above csv file
+<img width="1867" height="662" alt="image" src="https://github.com/user-attachments/assets/9337b098-5519-4764-a05a-d2fe1fba23f0" />
+
+
